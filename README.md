@@ -7,7 +7,7 @@ area in supply chain management, inventory management. The file *RL_inventory_ma
 which describes the problem setting, the data generation process, an outlook on extending the model to DQN, as well as the 
 results and a discussion. The implementaion is visible in the *inventory_beer_game_implementation.ipynb* file.
 
-## Project description
+## Problem description
 Inventory management deals with the questions on when to order, in which quantity, potentially even from which source (supplier) 
 to balance availability and costs. The main challenge in inventory management consists in dealing with changing demands, varying 
 lead times, and / or disruptions. There are many different specific problem settings in inventory management 
