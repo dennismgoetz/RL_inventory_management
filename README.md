@@ -1,8 +1,7 @@
 # Introduction to Reinforcement Learning
 ## Final group assignment
 
-
-This project was part of the "Introduction to Reinforcement Learning" Course at Catholic University of Eichstätt-Ingolstadt. 
+This project was part of the "Introduction to Reinforcement Learning" course at Catholic University of Eichstätt-Ingolstadt. 
 The objective was to work on an implementation of the Q learning reinforcement learning algorithm for a typical application 
 area in supply chain management, inventory management. The file *RL_inventory_management_groupwork.pdf* contains the report, 
 which describes the problem setting, the data generation process, an outlook on extending the model to DQN, as well as the 
